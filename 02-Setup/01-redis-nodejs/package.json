@@ -1,0 +1,22 @@
+{
+  "name": "01-redis-nodejs",
+  "version": "1.0.0",
+  "description": "1. Create Basic Node.js setup\r 2. Add redis to NodeJS\r    -",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon server.js",
+    "check": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1"
+  }
+}

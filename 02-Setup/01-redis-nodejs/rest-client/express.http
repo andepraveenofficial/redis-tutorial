@@ -1,0 +1,6 @@
+### Show Data
+GET http://localhost:5000/data
+
+### Show Data - > Redis
+GET http://localhost:5000/fast-data
+
