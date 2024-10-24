@@ -44,7 +44,7 @@
 ### Why Redis is very Fast
 
 - Redis uses the **RAM** for storage.
-- Traditional Databases uses **DIsk** for storage.
+- Traditional Databases uses **Disk** for storage.
 - RAM is more fast than the Disk.
 
 ### RAM
@@ -53,7 +53,7 @@
 - Redis uses the RAM
 - This is the computer's high-speed memory.
 - Redis stores all its data in RAM, allowing for very fast read and write operations.
-- RAM is volatie, meaning data is lost when the server is turned off or restart.
+- RAM is volatile, meaning data is lost when the server is turned off or restart.
 - This is Server's short term memory.
 - Computer memory (RAM) is much faster at finding and changing information compared to hard drives.
 
@@ -75,7 +75,7 @@
 
 - Redis is a in-memory database.
 - Redis is a temporary database.
-- Permanent database purpose we need to use Traaditional databases.
+- Permanent database purpose we need to use Traditional databases.
 - An in-memory database is a type of database that stores all its data in the main memory (RAM) of a computer, rather than on disk storage.
 
 ### Why Redis Fast Real Example
